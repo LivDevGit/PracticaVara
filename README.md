@@ -4,6 +4,7 @@ PracticaVara
 Website Overview:
 
 Home Page:
+
 <img width="485" alt="image" src="https://github.com/LivDevGit/PracticaVara/assets/174313663/8cb087bc-4a54-4e1f-afa2-d0f56d2a565e">
 
 
@@ -34,6 +35,7 @@ After login screen ( User Dashboard ) :
 
 
 MongoDB Database Collections
+
 <img width="668" alt="Screenshot 2024-07-03 130316" src="https://github.com/LivDevGit/PracticaVara/assets/174313663/2ba666a4-bc27-404f-ae0d-a346d6fd413c">
 
 <img width="326" alt="image" src="https://github.com/LivDevGit/PracticaVara/assets/174313663/fc28b2ac-7344-4aff-b408-50c2feed34e9">
